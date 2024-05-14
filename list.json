@@ -56,6 +56,20 @@
             "tiktok": "@kimkardashian",
             "facebook": "",
             "twitter": ""
+        },
+        {
+            "name": "Billie Eilish",
+            "instagram": "billieeilish",
+            "tiktok": "@billieeilish",
+            "facebook": "",
+            "twitter": ""
+        },
+        {
+            "name": "Taylor Swift",
+            "instagram": "taylorswift",
+            "tiktok": "@taylorswift",
+            "facebook": "",
+            "twitter": ""
         }
     ]
 }
