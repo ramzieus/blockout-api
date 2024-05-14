@@ -2,11 +2,60 @@
     "api-version": 1,
     "accounts": [
         {
-            "name": "ramzi hemadou",
-            "instagram": "ramzieus",
-            "tiktok": "ramzieus",
-            "facebook": "ramzieus",
-            "twitter": "ramzieus"    
+            "name": "Kris Jenner",
+            "instagram": "krisjenner",
+            "tiktok": "@krisjenner",
+            "facebook": "",
+            "twitter": ""
+        },
+        {
+            "name": "Demi Lovato",
+            "instagram": "ddlovato",
+            "tiktok": "@ddlovato",
+            "facebook": "",
+            "twitter": ""
+        },
+        {
+            "name": "Kendall Jenner",
+            "instagram": "kendalljenner",
+            "tiktok": "@kendalljenner",
+            "facebook": "",
+            "twitter": ""
+        },
+        {
+            "name": "Hailey Bieber",
+            "instagram": "haileybieber",
+            "tiktok": "@haileybieber",
+            "facebook": "",
+            "twitter": ""
+        },
+        {
+            "name": "Doja Cat",
+            "instagram": "dojacat",
+            "tiktok": "@dojacat",
+            "facebook": "",
+            "twitter": ""
+        },
+        {
+            "name": "Justin Bieber",
+            "instagram": "justinbieber",
+            "tiktok": "@justinbieber",
+            "facebook": "",
+            "twitter": ""
+        },
+        {
+            "name": "Khloe Kardashian",
+            "instagram": "khloekardashian",
+            "tiktok": "@MS4wLjABAAAAOicyvR06UycZLlx5U4X8vlLrBDPTpVfa8956KNwGDRof1-OfiSYl4kTtu2bB_IDt",
+            "facebook": "",
+            "twitter": ""
+        },
+        {
+            "name": "Kim Kardashian",
+            "instagram": "kimkardashian",
+            "tiktok": "@kimkardashian",
+            "facebook": "",
+            "twitter": ""
         }
     ]
 }
