@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+            "name": "Algeria",
+            "icon": "🇩🇿",
+            "slug": "dz"
+        },
+        {
+            "name": "United States",
+            "icon": "🇺🇸",
+            "slug": "us"
+        },
+        {
+            "name": "India",
+            "icon": "🇮🇳",
+            "slug": "in"
+        },
+        {
+            "name": "Egypt",
+            "icon": "🇪🇬",
+            "slug": "eg"
+        }
+    ]
+}
