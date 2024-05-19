@@ -19,6 +19,11 @@
             "name": "Egypt",
             "icon": "🇪🇬",
             "slug": "eg"
+        },
+        {
+            "name": "Turkey",
+            "icon": "🇹🇷",
+            "slug": "tr"
         }
     ]
 }
