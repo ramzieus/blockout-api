@@ -24,6 +24,11 @@
             "name": "Turkey",
             "icon": "🇹🇷",
             "slug": "tr"
+        },
+        {
+            "name": "France",
+            "icon": "🇫🇷",
+            "slug": "fr"
         }
     ]
 }
