@@ -6,6 +6,11 @@
             "slug": "dz"
         },
         {
+            "name": "Arabic",
+            "icon": "World",
+            "slug": "ar"
+        },
+        {
             "name": "United States",
             "icon": "🇺🇸",
             "slug": "us"
@@ -29,6 +34,16 @@
             "name": "France",
             "icon": "🇫🇷",
             "slug": "fr"
+        },
+        {
+            "name": "Korea",
+            "icon": "🇰🇷",
+            "slug": "kr"
+        },
+        {
+            "name": "United Kingdom",
+            "icon": "🇬🇧",
+            "slug": "uk"
         }
     ]
 }
