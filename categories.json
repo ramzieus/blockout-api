@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "name": "Footwear",
+      "icon": "assets/category_icons/running-shoes.png"
+    },
+
+    {
+      "name": "Apparel",
+      "icon": "assets/category_icons/gadgets.png"
+    },
+
+    {
+      "name": "Accessories",
+      "icon": "assets/category_icons/jewelry.png"
+    },
+
+
+    {
+      "name": "Cosmetics",
+      "icon": "assets/category_icons/cosmetics.png"
+    },
+
+
+    {
+      "name": "Food",
+      "icon": "assets/category_icons/hamburger.png"
+    },
+
+
+    {
+      "name": "Drinks",
+      "icon": "assets/category_icons/soft-drink.png"
+    },
+
+    {
+      "name": "School supplies",
+      "icon": "assets/category_icons/school-bag.png"
+    }
+
+    
+  ]
+}
