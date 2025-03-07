@@ -6,15 +6,11 @@
       "brands": [
         {
           "name": "Nike",
-          "logo": "",
+          "logo": "https://images.seeklogo.com/logo-png/9/1/nike-logo-png_seeklogo-99478.png",
           "details": "Sells products in stores in Israel, occupied-Palestine, and have sponsorship deals with several Israeli athletes and teams.",
           "alternatives": [
             {
               "name": "Alternative 1",
-              "logo": ""
-            },
-            {
-              "name": "Alternative 2",
               "logo": ""
             }
           ]
@@ -22,15 +18,11 @@
 
         {
           "name": "Puma",
-          "logo": "",
+          "logo": "https://images.seeklogo.com/logo-png/11/2/puma-logo-png_seeklogo-113797.png",
           "details": "Highly Israel-supporting. Puma is the main sponsor of the Israel Football Association (IFA), which includes teams in Israel’s illegal settlements on occupied Palestinian land.",
           "alternatives": [
             {
               "name": "Alternative 1",
-              "logo": ""
-            },
-            {
-              "name": "Alternative 2",
               "logo": ""
             }
           ]
@@ -38,13 +30,10 @@
 
         {
           "name": "Adidas",
-          "logo": "",
+          "logo": "https://images.seeklogo.com/logo-png/16/2/adidas-logo-png_seeklogo-168370.png",
           "details": "Adidas uses israeli manufacturer, Delta Galil, to manufacture its underwear range.",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
+
             {
               "name": "Alternative 2",
               "logo": ""
@@ -60,13 +49,9 @@
       "brands": [
         {
           "name": "savage x fenty",
-          "logo": "",
+          "logo": "https://images.seeklogo.com/logo-png/46/2/fenty-beauty-logo-png_seeklogo-468333.png",
           "details": "The owner of Fenty's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -76,13 +61,9 @@
 
         {
           "name": "H&M",
-          "logo": "",
+          "logo": "https://images.seeklogo.com/logo-png/6/2/hm-logo-png_seeklogo-64496.png",
           "details": "H&M has 21 stores in Israel and supports colonization and ethnic cleansing in Palestinian territories. Their investment in Israel also backs alleged war crimes and human rights abuses in Gaza.",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -92,14 +73,10 @@
 
         {
           "name": "ZARA",
-          "logo": "",
+          "logo": "https://images.seeklogo.com/logo-png/42/2/zara-logo-png_seeklogo-423532.png",
           "details": "Mocks genocide and supports Israel. Zara's latest marketing campaign uses corpses in plastic wrapping, and warzone aesthetics, mocking the genocide by israel in Gaza. In a previous incident Joey Schwebel, a Canadian-Israeli dual national and chairman of israel's Zara franchisee Trimera, hosted the convicted terrorist Itamar Ben-Gvir at his home in the lead-up to the Israeli elections. Zara did not made a statement distancing themselves from this association and allowed this ad campaign to run.",
 
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -115,13 +92,9 @@
       "brands": [
         {
           "name": "Apple",
-          "logo": "",
+          "logo": "https://images.seeklogo.com/logo-png/27/2/apple-logo-png_seeklogo-272825.png",
           "details": "Apple donated $34.5 million to Friends of the IDF, HaYovel, One Israel Fund, the Jewish National Fund, and IsraelGives through its employee donation-matching program. These organizations support the Israeli military and illegal settlements. This donation supports IDF actions against innocent Palestinians. ",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -131,13 +104,9 @@
 
         {
           "name": "LG",
-          "logo": "",
+          "logo": "https://images.seeklogo.com/logo-png/8/2/lg-electronics-logo-png_seeklogo-83711.png",
           "details": "In December 2023, LG Electronics announced that it would introduce a cybersecurity management system called the Cockpit Platform at the annual Consumer Electronics Show (CES) in 2024. The system was developed by LG Electronics in collaboration with the Israeli automotive cybersecurity company Cybellum [2] , which LG acquired after buying a 64% stake in 2021.",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -147,13 +116,9 @@
 
         {
           "name": "HP",
-          "logo": "",
+          "logo": "https://images.seeklogo.com/logo-png/26/2/hp-logo-png_seeklogo-265723.png",
           "details": "Provides mass support and equipments to Israel apartheid. Notably, HP helps run the biometric ID system that Israel uses to restrict Palestinian movement. Hewlett Packard runs the biometric ID system that Israel uses to restrict Palestinian movement as well as other systems for the IDF.",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -167,15 +132,25 @@
       "name": "Cosmetics",
       "icon": "assets/category_icons/cosmetics.png",
       "brands": [
+
         {
-          "name": "Benefit Cosmetics",
-          "logo": "",
-          "details": "LVMH owner Bernard Arnault invests in Israeli companies.",
+          "name": "L'Oréal",
+          "logo": "https://boycott-israel.org/img/logos/loreal.png",
+          "details": "L'Oréal has faced scrutiny and calls for boycotts in the past due to supporting Israel, particularly during conflicts involving Israel and Palestine. This scrutiny has often revolved around donations of products to women serving in the Israeli Defense Forces or other actions that are seen as supportive of Israel. SUB Brands : ( Lancôme, Yves Saint Laurent, Giorgio Armani, Kiehl’s, Urban Decay, Biotherm, Maybelline New York, Garnier, NYX Professional Makeup, Kérastase, Redken, La Roche-Posay, Vichy, SkinCeuticals, CeraVe)",
+
           "alternatives": [
             {
-              "name": "Alternative 1",
+              "name": "Alternative 2",
               "logo": ""
-            },
+            }
+          ]
+        },
+
+        {
+          "name": "Benefit Cosmetics",
+          "logo": "https://i.pinimg.com/originals/65/91/ac/6591ace8410edaa621889844694846ad.png",
+          "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises.",
+          "alternatives": [
             {
               "name": "Alternative 2",
               "logo": ""
@@ -185,13 +160,9 @@
 
         {
           "name": "sephora",
-          "logo": "",
+          "logo": "https://www.fddinternational.co.uk/wp-content/uploads/2023/03/sephora-logo.jpg",
           "details": "The owner of Sephora, Bernard Arnault invests hundreds of millions in Israeli companies. ",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -201,13 +172,9 @@
 
         {
           "name": "fenty beauty",
-          "logo": "",
+          "logo": "https://seeklogo.com/images/F/fenty-logo-C76A749839-seeklogo.com.png",
           "details": "The owner of Fenty's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies.",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -217,13 +184,9 @@
 
         {
           "name": "KVD Beauty",
-          "logo": "",
-          "details": "LVMH owner Bernard Arnault invests in Israeli companies.",
+          "logo": "https://boycottisrael.io/assets/img/brand-logos/kvd_beauty.jpg",
+          "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises. ",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -233,13 +196,9 @@
 
         {
           "name": "Makeup Forever",
-          "logo": "",
-          "details": "LVMH owner Bernard Arnault invests in Israeli companies.",
+          "logo": "https://www.makeupforever.com/on/demandware.static/Sites-MakeUpForEver-US-Site/-/default/dwfb201184/fontsicons/images/logo-desktop.png",
+          "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises.",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -249,13 +208,9 @@
 
         {
           "name": "Ole Henriksen",
-          "logo": "",
-          "details": "LVMH owner Bernard Arnault invests in Israeli companies.",
+          "logo": "https://boycottisrael.io/assets/img/brand-logos/olehenriksen.png",
+          "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises.",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -265,13 +220,9 @@
 
         {
           "name": "Stella by Stella McCartney",
-          "logo": "",
-          "details": "LVMH owner Bernard Arnault invests in Israeli companies.",
+          "logo": "https://www.stellamccartney.com/on/demandware.static/Sites-smc-row-Site/-/default/dw29f101cf/images/logo.svg",
+          "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises.",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -281,13 +232,9 @@
 
         {
           "name": "Guerlain",
-          "logo": "",
-          "details": "LVMH owner Bernard Arnault invests in Israeli companies.",
+          "logo": "https://boycottisrael.io/assets/img/brand-logos/guerlain.png",
+          "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises.",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -297,13 +244,9 @@
 
         {
           "name": "Dior",
-          "logo": "",
-          "details": "LVMH owner Bernard Arnault invests in Israeli companies.",
+          "logo": "https://boycottisrael.io/assets/img/brand-logos/dior.png",
+          "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises.",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -314,12 +257,8 @@
         {
           "name": "Aqua Di Parma",
           "logo": "",
-          "details": "LVMH owner Bernard Arnault invests in Israeli companies.",
+          "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises.",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -330,54 +269,8 @@
         {
           "name": "Givenchy",
           "logo": "",
-          "details": "LVMH owner Bernard Arnault invests in Israeli companies.",
+          "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises.",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
-            {
-              "name": "Alternative 2",
-              "logo": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Food",
-      "icon": "assets/category_icons/hamburger.png",
-      "brands": [
-        {
-          "name": "McDonald's",
-          "logo": "",
-          "details": "Openly supported genocide. Distributed free meals to IDF soliders. McDonald’s has partnership with the Jewish United Fund, which, among other things, promotes visits to Kiryat Gat, built on top of a destroyed Palestinian village. McDonalds Israel supports IDF by providing free food and drinks to Israeli militants. See tweet (click translate) for reference.",
-          "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
-            {
-              "name": "Alternative 2",
-              "logo": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Drinks",
-      "icon": "assets/category_icons/soft-drink.png",
-      "brands": [
-        {
-          "name": "Pepsico",
-          "logo": "",
-          "details": "It's Christian-American beverage comapny, but has a long and strong history of business with Israeli based SodaStream company. Pepsi bought Sodastream and has factories in occupied Palestine. We can say it's American but still has jewish-background. PepsiCo owns SodaStream and 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
-          "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
@@ -388,18 +281,61 @@
     },
 
     {
-      "name": "School supplies",
+      "name": "Foods",
+      "icon": "assets/category_icons/hamburger.png",
+      "brands": [
+        {
+          "name": "McDonald's",
+          "logo": "https://images.seeklogo.com/logo-png/29/2/mcdonalds-golden-arches-logo-png_seeklogo-299129.png",
+          "details": "Openly supported genocide. Distributed free meals to IDF soliders. McDonald’s has partnership with the Jewish United Fund, which, among other things, promotes visits to Kiryat Gat, built on top of a destroyed Palestinian village. McDonalds Israel supports IDF by providing free food and drinks to Israeli militants. See tweet (click translate) for reference.",
+          "alternatives": [
+            {
+              "name": "Alternative 2",
+              "logo": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Drinks",
+      "icon": "assets/category_icons/soft-drink.png",
+      "brands": [
+        {
+          "name": "Pepsico",
+          "logo": "https://images.seeklogo.com/logo-png/10/2/pepsico-logo-png_seeklogo-107545.png",
+          "details": "It's Christian-American beverage comapny, but has a long and strong history of business with Israeli based SodaStream company. Pepsi bought Sodastream and has factories in occupied Palestine. We can say it's American but still has jewish-background. PepsiCo owns SodaStream and 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+          "alternatives": [
+            {
+              "name": "Alternative 2",
+              "logo": ""
+            }
+          ]
+        },
+        {
+          "name": "7up",
+          "logo": "https://images.seeklogo.com/logo-png/46/2/7up-logo-png_seeklogo-468194.png",
+          "details": "The international distributer of 7up, PepsiCo, bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+          "alternatives": [
+            {
+              "name": "Alternative 2",
+              "logo": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Supplies",
       "icon": "assets/category_icons/school-bag.png",
       "brands": [
         {
           "name": "EduGear",
-          "logo": "",
+          "logo": "https://edugearstore.com/wp-content/uploads/2023/08/cropped-cropped-Logo-modified-3-80x80.png.webp",
           "details": "Details about EduGear.",
           "alternatives": [
-            {
-              "name": "Alternative 1",
-              "logo": ""
-            },
             {
               "name": "Alternative 2",
               "logo": ""
