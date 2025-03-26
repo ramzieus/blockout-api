@@ -1,3 +1,8 @@
 {
-  "alternatives": []
+  "alternatives": [
+    {
+      "name": "tech",
+      "logo": "https://cdn.shopify.com/s/files/1/1061/1924/products/Computer_Emoji_large.png?v=1571606036"
+    }
+  ]
 }

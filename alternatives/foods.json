@@ -1,3 +1,24 @@
 {
-  "alternatives": []
+  "alternatives": [
+    {
+      "name": "Apple",
+      "logo": "https://cdn.shopify.com/s/files/1/1061/1924/products/Apple_Emoji_large.png?v=1571606036"
+    },
+    {
+      "name": "Banana",
+      "logo": "https://cdn.shopify.com/s/files/1/1061/1924/products/Banana_Emoji_large.png?v=1571606036"
+    },
+    {
+      "name": "Carrot",
+      "logo": "https://cdn.shopify.com/s/files/1/1061/1924/products/Carrot_Emoji_large.png?v=1571606036"
+    },
+    {
+      "name": "Strawberry",
+      "logo": "https://cdn.shopify.com/s/files/1/1061/1924/products/Strawberry_Emoji_large.png?v=1571606036"
+    },
+    {
+      "name": "Bread",
+      "logo": "https://cdn.shopify.com/s/files/1/1061/1924/products/Bread_Emoji_large.png?v=1571606036"
+    }
+  ]
 }

@@ -1,3 +1,24 @@
 {
-  "alternatives": []
+  "alternatives": [
+    {
+      "name": "Lipstick",
+      "logo": "https://cdn.shopify.com/s/files/1/1061/1924/products/Lipstick_Emoji_large.png?v=1571606036"
+    },
+    {
+      "name": "Nail Polish",
+      "logo": "https://cdn.shopify.com/s/files/1/1061/1924/products/Nail_Polish_Emoji_large.png?v=1571606036"
+    },
+    {
+      "name": "Eye Shadow",
+      "logo": "https://cdn.shopify.com/s/files/1/1061/1924/products/Eye_Shadow_Emoji_large.png?v=1571606036"
+    },
+    {
+      "name": "Blush",
+      "logo": "https://cdn.shopify.com/s/files/1/1061/1924/products/Blush_Emoji_large.png?v=1571606036"
+    },
+    {
+      "name": "Mascara",
+      "logo": "https://cdn.shopify.com/s/files/1/1061/1924/products/Mascara_Emoji_large.png?v=1571606036"
+    }
+  ]
 }
