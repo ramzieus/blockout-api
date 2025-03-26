@@ -1,0 +1,14 @@
+{
+  "brands": [
+    {
+      "name": "Pepsico",
+      "logo": "https://images.seeklogo.com/logo-png/10/2/pepsico-logo-png_seeklogo-107545.png",
+      "details": "It's Christian-American beverage comapny, but has a long and strong history of business with Israeli based SodaStream company. Pepsi bought Sodastream and has factories in occupied Palestine. We can say it's American but still has jewish-background. PepsiCo owns SodaStream and 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine."
+    },
+    {
+      "name": "7up",
+      "logo": "https://images.seeklogo.com/logo-png/46/2/7up-logo-png_seeklogo-468194.png",
+      "details": "The international distributer of 7up, PepsiCo, bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine."
+    }
+  ]
+}

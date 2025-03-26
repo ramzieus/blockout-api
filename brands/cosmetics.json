@@ -1,0 +1,75 @@
+{
+  "brands": [
+    {
+      "name": "L'Oréal",
+      "logo": "https://boycott-israel.org/img/logos/loreal.png",
+      "details": "L'Oréal has faced scrutiny and calls for boycotts in the past due to supporting Israel, particularly during conflicts involving Israel and Palestine. This scrutiny has often revolved around donations of products to women serving in the Israeli Defense Forces or other actions that are seen as supportive of Israel. SUB Brands : ( Lancôme, Yves Saint Laurent, Giorgio Armani, Kiehl’s, Urban Decay, Biotherm, Maybelline New York, Garnier, NYX Professional Makeup, Kérastase, Redken, La Roche-Posay, Vichy, SkinCeuticals, CeraVe)"
+    },
+
+    {
+      "name": "Benefit Cosmetics",
+      "logo": "https://i.pinimg.com/originals/65/91/ac/6591ace8410edaa621889844694846ad.png",
+      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+    },
+
+    {
+      "name": "sephora",
+      "logo": "https://www.fddinternational.co.uk/wp-content/uploads/2023/03/sephora-logo.jpg",
+      "details": "The owner of Sephora, Bernard Arnault invests hundreds of millions in Israeli companies. "
+    },
+
+    {
+      "name": "fenty beauty",
+      "logo": "https://seeklogo.com/images/F/fenty-logo-C76A749839-seeklogo.com.png",
+      "details": "The owner of Fenty's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies."
+    },
+
+    {
+      "name": "KVD Beauty",
+      "logo": "https://boycottisrael.io/assets/img/brand-logos/kvd_beauty.jpg",
+      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises. "
+    },
+
+    {
+      "name": "Makeup Forever",
+      "logo": "https://www.makeupforever.com/on/demandware.static/Sites-MakeUpForEver-US-Site/-/default/dwfb201184/fontsicons/images/logo-desktop.png",
+      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+    },
+
+    {
+      "name": "Ole Henriksen",
+      "logo": "https://boycottisrael.io/assets/img/brand-logos/olehenriksen.png",
+      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+    },
+
+    {
+      "name": "Stella by Stella McCartney",
+      "logo": "https://www.stellamccartney.com/on/demandware.static/Sites-smc-row-Site/-/default/dw29f101cf/images/logo.svg",
+      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+    },
+
+    {
+      "name": "Guerlain",
+      "logo": "https://boycottisrael.io/assets/img/brand-logos/guerlain.png",
+      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+    },
+
+    {
+      "name": "Dior",
+      "logo": "https://boycottisrael.io/assets/img/brand-logos/dior.png",
+      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+    },
+
+    {
+      "name": "Aqua Di Parma",
+      "logo": "",
+      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+    },
+
+    {
+      "name": "Givenchy",
+      "logo": "",
+      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "brands": [
+    {
+      "name": "savage x fenty",
+      "logo": "https://images.seeklogo.com/logo-png/46/2/fenty-beauty-logo-png_seeklogo-468333.png",
+      "details": "The owner of Fenty's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies"
+    },
+
+    {
+      "name": "H&M",
+      "logo": "https://images.seeklogo.com/logo-png/6/2/hm-logo-png_seeklogo-64496.png",
+      "details": "H&M has 21 stores in Israel and supports colonization and ethnic cleansing in Palestinian territories. Their investment in Israel also backs alleged war crimes and human rights abuses in Gaza."
+    },
+
+    {
+      "name": "ZARA",
+      "logo": "https://images.seeklogo.com/logo-png/42/2/zara-logo-png_seeklogo-423532.png",
+      "details": "Mocks genocide and supports Israel. Zara's latest marketing campaign uses corpses in plastic wrapping, and warzone aesthetics, mocking the genocide by israel in Gaza. In a previous incident Joey Schwebel, a Canadian-Israeli dual national and chairman of israel's Zara franchisee Trimera, hosted the convicted terrorist Itamar Ben-Gvir at his home in the lead-up to the Israeli elections. Zara did not made a statement distancing themselves from this association and allowed this ad campaign to run."
+    }
+  ]
+}

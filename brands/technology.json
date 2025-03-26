@@ -1,0 +1,21 @@
+{
+  "brands": [
+    {
+      "name": "Apple",
+      "logo": "https://images.seeklogo.com/logo-png/27/2/apple-logo-png_seeklogo-272825.png",
+      "details": "Apple donated $34.5 million to Friends of the IDF, HaYovel, One Israel Fund, the Jewish National Fund, and IsraelGives through its employee donation-matching program. These organizations support the Israeli military and illegal settlements. This donation supports IDF actions against innocent Palestinians. "
+    },
+
+    {
+      "name": "LG",
+      "logo": "https://images.seeklogo.com/logo-png/8/2/lg-electronics-logo-png_seeklogo-83711.png",
+      "details": "In December 2023, LG Electronics announced that it would introduce a cybersecurity management system called the Cockpit Platform at the annual Consumer Electronics Show (CES) in 2024. The system was developed by LG Electronics in collaboration with the Israeli automotive cybersecurity company Cybellum [2] , which LG acquired after buying a 64% stake in 2021."
+    },
+
+    {
+      "name": "HP",
+      "logo": "https://images.seeklogo.com/logo-png/26/2/hp-logo-png_seeklogo-265723.png",
+      "details": "Provides mass support and equipments to Israel apartheid. Notably, HP helps run the biometric ID system that Israel uses to restrict Palestinian movement. Hewlett Packard runs the biometric ID system that Israel uses to restrict Palestinian movement as well as other systems for the IDF."
+    }
+  ]
+}
