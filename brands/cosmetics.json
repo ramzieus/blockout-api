@@ -1,11 +1,11 @@
 {
   "brands": [
     {
-      "name": "L'Oréal",
-      "logo": "https://boycott-israel.org/img/logos/loreal.png",
-      "details": "L'Oréal has faced scrutiny and calls for boycotts in the past due to supporting Israel, particularly during conflicts involving Israel and Palestine. This scrutiny has often revolved around donations of products to women serving in the Israeli Defense Forces or other actions that are seen as supportive of Israel. SUB Brands : ( Lancôme, Yves Saint Laurent, Giorgio Armani, Kiehl’s, Urban Decay, Biotherm, Maybelline New York, Garnier, NYX Professional Makeup, Kérastase, Redken, La Roche-Posay, Vichy, SkinCeuticals, CeraVe)"
+      "name": "Aqua Di Parma",
+      "logo": "https://images.seeklogo.com/logo-png/32/1/acqua-di-parma-logo-png_seeklogo-320790.png",
+      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
     },
-
+    
     {
       "name": "Benefit Cosmetics",
       "logo": "https://i.pinimg.com/originals/65/91/ac/6591ace8410edaa621889844694846ad.png",
@@ -13,9 +13,9 @@
     },
 
     {
-      "name": "sephora",
-      "logo": "https://www.fddinternational.co.uk/wp-content/uploads/2023/03/sephora-logo.jpg",
-      "details": "The owner of Sephora, Bernard Arnault invests hundreds of millions in Israeli companies. "
+      "name": "Dior",
+      "logo": "https://boycottisrael.io/assets/img/brand-logos/dior.png",
+      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
     },
 
     {
@@ -25,9 +25,27 @@
     },
 
     {
+      "name": "Givenchy",
+      "logo": "https://images.seeklogo.com/logo-png/30/1/givenchy-logo-png_seeklogo-304644.png",
+      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+    },
+
+    {
+      "name": "Guerlain",
+      "logo": "https://boycottisrael.io/assets/img/brand-logos/guerlain.png",
+      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+    },
+
+    {
       "name": "KVD Beauty",
       "logo": "https://boycottisrael.io/assets/img/brand-logos/kvd_beauty.jpg",
       "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises. "
+    },
+
+    {
+      "name": "L'Oréal",
+      "logo": "https://boycott-israel.org/img/logos/loreal.png",
+      "details": "L'Oréal has faced scrutiny and calls for boycotts in the past due to supporting Israel, particularly during conflicts involving Israel and Palestine. This scrutiny has often revolved around donations of products to women serving in the Israeli Defense Forces or other actions that are seen as supportive of Israel. SUB Brands : ( Lancôme, Yves Saint Laurent, Giorgio Armani, Kiehl’s, Urban Decay, Biotherm, Maybelline New York, Garnier, NYX Professional Makeup, Kérastase, Redken, La Roche-Posay, Vichy, SkinCeuticals, CeraVe)"
     },
 
     {
@@ -43,33 +61,173 @@
     },
 
     {
+      "name": "sephora",
+      "logo": "https://www.fddinternational.co.uk/wp-content/uploads/2023/03/sephora-logo.jpg",
+      "details": "The owner of Sephora, Bernard Arnault invests hundreds of millions in Israeli companies. "
+    },
+    
+    {
       "name": "Stella by Stella McCartney",
       "logo": "https://www.stellamccartney.com/on/demandware.static/Sites-smc-row-Site/-/default/dw29f101cf/images/logo.svg",
       "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
     },
 
     {
-      "name": "Guerlain",
-      "logo": "https://boycottisrael.io/assets/img/brand-logos/guerlain.png",
-      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+      "name": "Aerin",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032016/untitled-1_33.png?itok=0-2RSCtz",
+      "details": "Aerin is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land."
     },
 
     {
-      "name": "Dior",
-      "logo": "https://boycottisrael.io/assets/img/brand-logos/dior.png",
-      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+      "name": "Aesop",
+      "logo": "https://brandlogos.net/wp-content/uploads/2022/05/aesop-logo_brandlogos.net_pedrx.png",
+      "details": "Aesop is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine."
     },
 
     {
-      "name": "Aqua Di Parma",
-      "logo": "",
-      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+      "name": "Ahava",
+      "logo": "https://images.seeklogo.com/logo-png/49/1/ahava-logo-png_seeklogo-496755.png",
+      "details": "Ahava is an Israeli company which operates its manufacturing facilities in Occupied Palestine, stealing resources from the Dead Sea."
     },
 
     {
-      "name": "Givenchy",
-      "logo": "",
-      "details": "LVMH owner Bernard Arnault invests in Israeli companies. Bernard Arnault, the chairman and CEO of LMVH Moet Hennessy-Louis Vuitton, and the world’s richest man according to Forbes, has invested in cybersecurity firm, Wiz, the Israeli maker of cloud security solutions for enterprises."
+      "name": "Amika",
+      "logo": "https://www.loveamika.co.uk/c-images/fb-image.png",
+      "details": "Manufactured on occupied Palestinian land."
+    },
+
+    {
+      "name": "Aramis",
+      "logo": "https://www.thefragrancecounter.co.uk/user/brands/Aramis-logo.jpg",
+      "details": "Aramis is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land."
+    },
+
+    {
+      "name": "Aussie",
+      "logo": "https://images.ctfassets.net/zyvr84rwvj68/34O3XfqFR60G6mcU6mooyq/d599d420ba23eedf3751029bce22ff43/Aussie.jpg",
+      "details": "Aussie is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually."
+    },
+
+    {
+      "name": "Axe",
+      "logo": "https://cdn.sanity.io/images/92ui5egz/production/b953900d039e64d54e396b500343f64065fe3f62-280x280.jpg?w=375&h=375&fit=crop&auto=format",
+      "details": "Axe is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel."
+    },
+
+    {
+      "name": "Bath & Body Works",
+      "logo": "https://i.pinimg.com/originals/b1/df/c2/b1dfc2670f0ba2913a3aaca3b12630ae.jpg",
+      "details": "Les Wexner who owns L Brands, the parent company of Bath&Body Works, is a staunch ally of Israel, and a long time business partner of Jeffrey Epstein, the convicted child trafficker."
+    },
+
+    {
+      "name": "BIOTHERM",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/0889/brand.gif",
+      "details": "BIOTHERM is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine."
+    },
+
+    {
+      "name": "Bobbi Brown",
+      "logo": "https://yt3.googleusercontent.com/ytc/APkrFKYxzT0Ta2tKaKQmlN707g61WXokGqJK1oaGZHFmVw=s900-c-k-c0x00ffffff-no-rj",
+      "details": "Bobbi Brown is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land."
+    },
+
+    {
+      "name": "Cerave",
+      "logo": "https://skinmiles.com/wp-content/uploads/2023/10/CeraVe-logo-brand-page-300x300.jpg",
+      "details": "Cerave is owned by L'Oreal. L'Oreal is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine."
+    },
+
+    {
+      "name": "Clinique",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0001/5427/brand.gif?Gt6PPdgJuur6AEtnU2Im_sunXs3XuZbo&itok=o_eLBdUe",
+      "details": "Clinique is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land."
+    },
+
+    {
+      "name": "Dove",
+      "logo": "https://cdn.sanity.io/images/92ui5egz/production/db75ae243befa00aa3cdb2eaf546b0c3aa2ab5d2-1080x1080.jpg?w=375&h=375&fit=crop&auto=format",
+      "details": "Dove is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel."
+    },
+
+    {
+      "name": "Estee Lauder",
+      "logo": "https://logowik.com/content/uploads/images/550_estee_lauder.jpg",
+      "details": "Ronald Lauder, who together with his brother Leonard Lauder inherited the Estee Lauder company, is the president of the World Jewish Congress, and chairman of the Jewish National Fund, and is a zionist with extremist views and financially and politically supports Israeli occupation of Palestinian land."
+    },
+
+    {
+      "name": "Garnier",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072019/garnier_logo.jpg?Hc_rMssrG43ZcRMFKa6QdUcGRKyr5oP8&itok=TPiNcSQp",
+      "details": "Garnier is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine."
+    },
+
+    {
+      "name": "Head and Shoulders",
+      "logo": "https://logowik.com/content/uploads/images/head-shoulders7079.jpg",
+      "details": "Head and Shoulders is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually."
+    },
+
+    {
+      "name": "Herbal Essences",
+      "logo": "https://crueltyfree.peta.org/wp-content/uploads/herbal-essences-scaled.jpg",
+      "details": "Herbal essences is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually."
+    },
+
+    {
+      "name": "Il Makiage",
+      "logo": "https://mms.businesswire.com/media/20210812005438/en/898712/22/IL_MAKIAGE_LOGO-01_thumbnail.jpg",
+      "details": "Oddity is an israeli company which has its HQ in New York, but maintains its R&D offices and majority of operations based in Tel Aviv."
+    },
+
+    {
+      "name": "IT Cosmetics",
+      "logo": "https://crueltyfree.peta.org/wp-content/uploads/it-cosmetics-logo.jpg",
+      "details": "IT Cosmetics is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine."
+    },
+
+    {
+      "name": "Jo Malone",
+      "logo": "https://image.isu.pub/170203184809-3d22cddc0d5e27dd1d0ea2ce32b57baf/jpg/page_1.jpg",
+      "details": "Jo Malone is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land."
+    },
+
+    {
+      "name": "Kerastase",
+      "logo": "https://static.couponfollow.com/kerastase-ca/logo.png",
+      "details": "Kerastase is owned by L'Oreal. L'Oreal is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine."
+    },
+
+    {
+      "name": "Kiehl's",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3652/brand.gif",
+      "details": "Kiehl's is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine."
+    },
+
+    {
+      "name": "Kilian",
+      "logo": "https://parisgallery.ae/cdn/shop/collections/Kilian_Paris.webp?v=1678692711&width=2400",
+      "details": "Kilian is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land."
+    },
+
+    {
+      "name": "Kylie Cosmetics",
+      "logo": "https://miro.medium.com/v2/resize:fit:1000/1*gSiQUzv3VJq8DVtMiwX93Q.jpeg",
+      "details": "Kylie posted that she stands with Israel before deleting it following backlash from followers."
+    },
+
+    {
+      "name": "La Mer",
+      "logo": "https://fontmeme.com/images/Lar-Mer-Logo.jpg",
+      "details": "La Mer is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land."
+    },
+
+    {
+      "name": "La Roche-Posay",
+      "logo": "https://images.seeklogo.com/logo-png/17/1/la-roche-posay-logo-png_seeklogo-175261.png",
+      "details": "La Roche-Posay is owned by L'Oreal. L'Oreal is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine."
     }
+
+
   ]
 }
